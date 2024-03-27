@@ -1,9 +1,40 @@
-<h1 align="center">Hi 👋, Github</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# cy4udev
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**We Are Architects Of Digital Transformation, Crafting Tomorrow's Solutions Today.**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Our Team Rules
+
+Together we strive, individually we thrive. Our success is woven in the fabric of collaboration and the strength of each member. In this team, we don't just make rules; we make magic.
+
+
+### Team Rule (No.01)
+
+###### We love what we do
+
+Passion fuels our purpose. In this team, we don't just love what we do; we infuse every task with dedication, turning work into a labor of love. Our enthusiasm is the heartbeat of our success.
+
+### Team Rule (No.02)
+
+###### Trust
+
+Trust is our cornerstone. We build it through transparency, reliability, and a collective commitment to each other's success. In this team, trust is not just a word; it's our unwavering bond that propels us forward.
+
+### Team Rule (No.03)
+
+###### Communication
+
+Communication is our compass. We navigate challenges and celebrate victories through open dialogue, active listening, and a shared commitment to clarity. In this team, effective communication isn't just a rule; it's the bridge that connects us and propels us forward together.
+
+### Team Rule (No.04)
+
+###### Honesty
+
+Honesty is our North Star. In this team, we value truthfulness as the cornerstone of our relationships. We embrace openness, speak our minds, and uphold the integrity that binds us together. In every interaction, honesty is not just a rule; it's the foundation of our trust and collaboration.
+
+### Our Vision
+
+At [cy4u.dev](https://cy4u.dev "cy4u.dev"), we aspire to lead the future technological transformation by pushing the boundaries in the digital world through the development of custom software, automations, and bots. We aim to continuously invest in cutting-edge technology, understand the needs of our clients, and provide the most innovative solutions to transform their digital experiences.
+
+### Our Mission
+
+Our mission is to empower our clients with a competitive edge, optimize their business processes and lead them towards digital excellence through tailor-made software solutions. At [cy4u.dev](https://cy4u.dev "cy4u.dev"), we strive to understand the unique needs of our clients, offering customized software products and services to contribute to their success.
