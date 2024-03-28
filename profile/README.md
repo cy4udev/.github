@@ -38,3 +38,20 @@ At [cy4u.dev](https://cy4u.dev "cy4u.dev"), we aspire to lead the future technol
 ### Our Mission
 
 Our mission is to empower our clients with a competitive edge, optimize their business processes and lead them towards digital excellence through tailor-made software solutions. At [cy4u.dev](https://cy4u.dev "cy4u.dev"), we strive to understand the unique needs of our clients, offering customized software products and services to contribute to their success.
+
+
+#### Keywords
+
+[**NodeJS Developer**](https://cy4u.dev "NodeJS Developer"), [**Back-end Developer**](https://cy4u.dev "Back-end Developer"), [**Node.JS Developer**](https://cy4u.dev "Node.JS Developer")
+
+#### Sponsor & Donate
+
+[Patreon](https://patreon.com/cy4udev "cy4udev patreon") | [BuyMeaCoffee](https://www.buymeacoffee.com/cy4udev "cy4udev BuyMeaCoffee")
+
+#### Copyright & Other Issues
+
+Copyright: [copyright@cy4u.dev](mailto:copyright@cy4u.dev "copyright@cy4u.dev") | Other Issues: [hello@cy4u.dev](mailto:hello@cy4u.dev "hello@cy4u.dev")
+
+#### Social Media
+
+[Linkedin](https://www.linkedin.com/company/cy4udev/ "cy4udev linkedin") | [Twitter](https://twitter.com/cy4udev "cy4udev twitter") | [Bluesky](https://bsky.app/profile/cy4u.dev "cy4udev bluesky") | [Instagram](https://instagram.com/cy4udev "cy4udev instagram") | [Youtube](https://www.youtube.com/@cy4udev "cy4udev youtube") | [Github](https://github.com/cy4udev "cy4udev github") | [Npmjs](https://www.npmjs.com/~cy4udev "cy4udev npmjs")
