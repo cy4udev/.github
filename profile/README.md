@@ -33,16 +33,16 @@ Honesty is our North Star. In this team, we value truthfulness as the cornerston
 
 ### Our Vision
 
-At [cy4u.dev](https://cy4u.dev "cy4u.dev"), we aspire to lead the future technological transformation by pushing the boundaries in the digital world through the development of custom software, automations, and bots. We aim to continuously invest in cutting-edge technology, understand the needs of our clients, and provide the most innovative solutions to transform their digital experiences.
+At [cy4u.dev](https://www.cy4u.dev "cy4u.dev"), we aspire to lead the future technological transformation by pushing the boundaries in the digital world through the development of custom software, automations, and bots. We aim to continuously invest in cutting-edge technology, understand the needs of our clients, and provide the most innovative solutions to transform their digital experiences.
 
 ### Our Mission
 
-Our mission is to empower our clients with a competitive edge, optimize their business processes and lead them towards digital excellence through tailor-made software solutions. At [cy4u.dev](https://cy4u.dev "cy4u.dev"), we strive to understand the unique needs of our clients, offering customized software products and services to contribute to their success.
+Our mission is to empower our clients with a competitive edge, optimize their business processes and lead them towards digital excellence through tailor-made software solutions. At [cy4u.dev](https://www.cy4u.dev "cy4u.dev"), we strive to understand the unique needs of our clients, offering customized software products and services to contribute to their success.
 
 
 #### Keywords
 
-[**NodeJS Developer**](https://cy4u.dev "NodeJS Developer"), [**Back-end Developer**](https://cy4u.dev "Back-end Developer"), [**Node.JS Developer**](https://cy4u.dev "Node.JS Developer"), [**Backend Developer**](https://cy4u.dev "Backend Developer")
+[**NodeJS Developer**](https://www.cy4u.dev "NodeJS Developer"), [**Back-end Developer**](https://www.cy4u.dev "Back-end Developer"), [**Node.JS Developer**](https://www.cy4u.dev "Node.JS Developer"), [**Backend Developer**](https://www.cy4u.dev "Backend Developer")
 
 #### Sponsor & Donate
 
